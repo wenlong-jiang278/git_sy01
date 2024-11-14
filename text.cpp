@@ -2,7 +2,7 @@
 
 int main()
 {
-    std::cout<<"i love you jwl yeah"<<std::endl;
+    std::cout<<"i love you yeah"<<std::endl;
     
 
     return 0;
